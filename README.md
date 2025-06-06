@@ -1,6 +1,6 @@
 # About Khloe (@Yaakushi) 🏳️‍⚧️
 
-🎓 Computer Sciente @ UFPR (2014-2018)<br>
+🎓 Computer science @ UFPR (2014-2018)<br>
 🎓 Apple Developer Academy @ PUC-PR (2015-2016)
 
 💼 Flutter, Android (Kotlin), C Developer @ **NIC.br** (2019-**Currently**)<br>
